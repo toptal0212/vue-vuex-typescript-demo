@@ -1,32 +1,32 @@
 # vue-vuex-typescript-demo
 
-> Vue2.5+ + Vuex + Typescript 示例
+> Vue2.5+ + Vuex + Typescript example
 
-- 整体基于 [vue-cli](https://github.com/vuejs/vue-cli) 3.0 (rc.3版) 生成代码改造
+- Chiropractic base [vue-cli](https://github.com/vuejs/vue-cli) 3.0 (rc.3 version) Generation modification
 
-- Vuex 基于官方 [shopping-cart](https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart) 示例改造
+- Vuex Basic Official [shopping-cart](https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart) Example modification
 
-- 支持 [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) 及 [vuex-class](https://github.com/ktsn/vuex-class) 组件式写法
+- Supports [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) and [vuex-class](https://github.com/ktsn/vuex-class) conjunctive expression method
 
-- 支持 vue + vuex 原生写法
+- Supports vue + vuex original copying method
 
-- 支持 tslint
+- Support tslint
 
-- 包含 [element-ui](https://github.com/ElemeFE/element) 示例（2.x 版本，支持按需加载）
+- Inclusion [element-ui](https://github.com/ElemeFE/element) Example (2.x version, support)
 
-- 包含 sass 示例
+- Inclusive sass example
 
-> vue-cli 2.x 版本 示例见 [vue-cli-2 分支](https://github.com/qidaizhe11/vue-vuex-typescript-demo/tree/vue-cli-2)
+> vue-cli 2.x version example [vue-cli-2 branch](https://github.com/qidaizhe11/vue-vuex-typescript-demo/tree/vue-cli-2)
 
-## 相关文章
+## Sokan text
 
-- [Vue2.5+ Typescript 引入全面指南](https://segmentfault.com/a/1190000011853167)
+- [Vue2.5+ Typescript complete guide](https://segmentfault.com/a/1190000011853167)
 
-- [Vue2.5+ Typescript 引入全面指南 - Vuex篇](https://segmentfault.com/a/1190000011864013)
+- [Vue2.5+ Typescript complete guide - Vuex version](https://segmentfault.com/a/1190000011864013)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -47,4 +47,4 @@ npm run test:e2e
 
 ## License
 
-MIT
+M.I.T.
